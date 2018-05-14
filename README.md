@@ -8,5 +8,6 @@ plagued by bugs and inefficient implementations.
 
 # `MMFP_graphics_generator`
 The notebook `GraphProc.nb` generates the list of optimal 
-trees on verticies `{{0,15},{5,20},{16,24},{20,20},{33,25},
-{23,11},{35,7},{25,0},{10,3}}` saved in `MMFP_reduced_graphs`. 
+trees on verticies `{{0,15}, {5,20}, {16,24}, {20,20}, 
+{33,25}, {23,11}, {35,7}, {25,0}, {10,3}}` saved in 
+`MMFP_reduced_graphs`. 
