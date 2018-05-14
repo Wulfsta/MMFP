@@ -1,0 +1,18 @@
+(* Created with the Wolfram Language : www.wolfram.com *)
+Graph[{{0, 15}, {0, 20}, {5, 20}, {16, 20}, {16, 24}, {23, 7}, {23, 11}, 
+  {23, 15}, {23, 20}, {10, 20}, {20, 20}, {25, 7}, {33, 7}, {35, 7}, {20, 3}, 
+  {23, 3}, {23, 0}, {25, 0}, {23, 25}, {25, 25}, {33, 25}, {10, 3}, {16, 3}, 
+  {23, 24}}, {UndirectedEdge[{0, 15}, {0, 20}], 
+  UndirectedEdge[{0, 20}, {5, 20}], UndirectedEdge[{16, 20}, {16, 24}], 
+  UndirectedEdge[{23, 7}, {23, 11}], UndirectedEdge[{23, 11}, {23, 15}], 
+  UndirectedEdge[{23, 15}, {23, 20}], UndirectedEdge[{5, 20}, {10, 20}], 
+  UndirectedEdge[{10, 20}, {16, 20}], UndirectedEdge[{16, 20}, {20, 20}], 
+  UndirectedEdge[{20, 20}, {23, 20}], UndirectedEdge[{23, 7}, {25, 7}], 
+  UndirectedEdge[{25, 7}, {33, 7}], UndirectedEdge[{33, 7}, {35, 7}], 
+  UndirectedEdge[{20, 3}, {23, 3}], UndirectedEdge[{23, 3}, {23, 7}], 
+  UndirectedEdge[{23, 0}, {23, 3}], UndirectedEdge[{23, 0}, {25, 0}], 
+  UndirectedEdge[{23, 25}, {25, 25}], UndirectedEdge[{25, 25}, {33, 25}], 
+  UndirectedEdge[{10, 3}, {16, 3}], UndirectedEdge[{16, 3}, {20, 3}], 
+  UndirectedEdge[{23, 20}, {23, 24}], UndirectedEdge[{23, 24}, {23, 25}]}, 
+ {EdgeWeight -> {5, 5, 4, 4, 4, 5, 5, 6, 4, 3, 2, 8, 2, 3, 4, 3, 2, 2, 8, 6, 
+   4, 4, 1}}]
